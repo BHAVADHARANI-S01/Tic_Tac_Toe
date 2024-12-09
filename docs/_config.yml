@@ -1,0 +1,4 @@
+title: Tic Tac Toe
+description: A simple Jekyll-powered site for Tic Tac Toe.
+theme: jekyll-theme-primer
+markdown: kramdown
